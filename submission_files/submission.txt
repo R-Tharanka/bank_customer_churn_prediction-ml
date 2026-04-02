@@ -1,0 +1,9 @@
+Machine Learning - Assignment 01
+Group - 20
+Submission Links
+
+Dataset Link : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data
+
+YouTube : https://youtu.be/XMk-1s-8VqU?si=2EWYWQydS8_eYGFr
+
+GitHub Link : https://github.com/R-Tharanka/bank_customer_churn_prediction-ml.git
